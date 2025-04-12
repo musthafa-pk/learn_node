@@ -1,0 +1,23 @@
+# Node.js Learning Projects 🚀
+
+
+A collection of mini-projects and practice tasks as I learn Node.js, Express.js, and MongoDB.
+
+## 📁 Projects Included
+
+- `01-hello-world` – Basic Hello World script
+- `02-http-server` – Simple HTTP server using core modules
+
+---
+
+## 🛠 Tech Stack
+
+- Node.js
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repo
+```bash
+git clone https://github.com/musthafa-pk/learn_node.git
